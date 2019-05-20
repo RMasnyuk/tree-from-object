@@ -39,9 +39,3 @@ function createTree(container, obj) {
 }
 
 createTree(container, data);
-
-
-
-
-
-
